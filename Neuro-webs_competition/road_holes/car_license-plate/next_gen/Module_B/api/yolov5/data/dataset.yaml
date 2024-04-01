@@ -1,0 +1,4 @@
+names:
+  0: license_plate
+train: ../data/train
+val: ../data/val
