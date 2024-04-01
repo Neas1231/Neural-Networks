@@ -1,0 +1,11 @@
+https://habr.com/ru/articles/432444/
+https://habr.com/ru/companies/simbirsoft/articles/561866/
+https://habr.com/ru/articles/439330/
+https://github.com/AlexandrVP/Car-number-plate-detection-and-recognition/tree/master
+https://qwertybox.ru/articles/327137/
+https://sharmasid00.hashnode.dev/car-number-plate-detection-using-cnn-and-getting-owner-information
+https://github.com/sniperyyc/license_plate_number_recognition/tree/master
+https://github.com/smeyanoff/car-number-detection/tree/main
+https://habr.com/ru/companies/recognitor/articles/225913/
+https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html
+https://stackoverflow.com/questions/68261703/how-to-improve-accuracy-prediction-for-easyocr
