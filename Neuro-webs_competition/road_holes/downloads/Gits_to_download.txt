@@ -1,0 +1,11 @@
+Tesseract OCR
+https://github.com/UB-Mannheim/tesseract/wiki
+
+Yolov5
+https://github.com/ultralytics/yolov5
+
+YOLO-Annotation-Tool
+https://github.com/pascalberski/YOLO-Annotation-Tool
+
+Yolo-to-COCO-format-converter
+!git clone https://github.com/Taeyoung96/Yolo-to-COCO-format-converter.git

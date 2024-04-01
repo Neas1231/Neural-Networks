@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20230114155527_O840CH777_jpg.rf.9c42062524f81823f3f8f4a007e28541.jpg</filename>
+	<path>20230114155527_O840CH777_jpg.rf.9c42062524f81823f3f8f4a007e28541.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car-plate-numbers</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>291</xmin>
+			<xmax>336</xmax>
+			<ymin>228</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>
