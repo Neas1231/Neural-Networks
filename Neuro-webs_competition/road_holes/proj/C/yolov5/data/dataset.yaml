@@ -1,0 +1,9 @@
+train: ..\data\exported_data\splitted\train
+val: ..\data\exported_data\splitted\val
+nc: '5'
+names:
+  0: D00
+  1: D10
+  2: D20
+  3: D40
+  4: Repair
